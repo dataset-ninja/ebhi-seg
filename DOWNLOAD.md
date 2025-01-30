@@ -1,6 +1,6 @@
 Dataset **EBHI-Seg** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/o5lvwx3l8e8x7iu4wjs4f/ebhiseg-DatasetNinja.tar?rlkey=in6pklicjm5pg31ya09yq847s&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMzMjlfRUJISS1TZWcvZWJoaXNlZy1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJkM2Z0dlVyWjhxZmd3T1NKdXZ6WVMxMHdBZVZGNUs0SVpEKzI4d2ZvdEcwPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
